@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Olha a lista!",
+    "description": "Convocação da seleção feminina para treinamentos visando o Campeonato Mundial 2022",
+    "image": "https://cbv.com.br/img/noticias/2022/convocacao-da-selecao-feminina-para-treinamentos-visando-o-campeonato-mundial-2022.jpg",
+    "link": "https://cbv.com.br/noticia/29147/convocacao-da-selecao-feminina-para-treinamentos-visando-o-campeonato-mundial-2022",
+  },
+  {
+    "id": 2,
+    "title": "Resultado positivo",
+    "description": "Seleção feminina supera Bulgária e consegue nona vitória na Liga das Nações",
+    "image": "https://cbv.com.br/img/noticias/2022/selecao-feminina-supera-bulgaria-e-consegue-nona-vitoria-na-liga-das-nacoes-.jpg",
+    "link": "https://cbv.com.br/noticia/29112/selecao-feminina-supera-bulgaria-e-consegue-nona-vitoria-na-liga-das-nacoes-",
+  },
+  {
+    "id": 3,
+    "title": "Três décadas",
+    "description": "Em dia de celebração dos 30 anos da medalha de ouro dos Jogos de Barcelona, seleção masculina faz amistoso contra o Japão",
+    "image": "https://cbv.com.br/img/noticias/2022/em-dia-de-celebracao-dos-30-anos-da-medalha-de-ouro-dos-jogos-de-barcelona--selecao-masculina-faz-amistoso-contra-o-japao.jpg",
+    "link": "https://cbv.com.br/noticia/29058/em-dia-de-celebracao-dos-30-anos-da-medalha-de-ouro-dos-jogos-de-barcelona--selecao-masculina-faz-amistoso-contra-o-japao",
+  },
+  {
+    "id": 4,
+    "title": "Reforços",
+    "description": "Pela primeira vez, seleções de base do Brasil têm mulheres treinadoras nas comissões técnicas",
+    "image": "https://cbv.com.br/img/noticias/2022/pela-primeira-vez--selecoes-de-base-do-brasil-tem-mulheres-treinadoras-nas-comissoes-tecnicas.jpg",
+    "link": "https://cbv.com.br/noticia/28952/pela-primeira-vez--selecoes-de-base-do-brasil-tem-mulheres-treinadoras-nas-comissoes-tecnicas",
+  },
+]
